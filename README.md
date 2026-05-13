@@ -1,5 +1,5 @@
 # support-ticket-classifier
-ML system to classify and prioritize customer support tickets
+system to classify and prioritize customer support tickets
 # Support Ticket Classification & Prioritization
 
 An ML system that automatically classifies customer support tickets
